@@ -1,4 +1,4 @@
-![github stats](https://readme-stats-three-hazel.vercel.app/api?username=afisherdev&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ![top-langs](https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=afisherdev&theme=tokyonight&layout=compact)
 <!--
 **afisherdev/afisherdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
