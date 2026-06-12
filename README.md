@@ -1,5 +1,4 @@
 
-![top-langs](https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=afisherdev&theme=tokyonight&layout=compact)
 <!--
 **afisherdev/afisherdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
